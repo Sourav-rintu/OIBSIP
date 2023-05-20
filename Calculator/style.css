@@ -1,7 +1,7 @@
 * {
     padding: 0;
     box-sizing: border-box;
-    background-color: #67bdff;
+    background-color: #3bd116;
     font-family: sans-serif;
     outline: none;
   }
@@ -18,7 +18,7 @@
   }
   
   .calculator {
-    background-color: #f7dd6c;
+    background-color: #093157;
     padding: 24px;
     border: #acced4 2px solid;
     border-radius: 16px;
